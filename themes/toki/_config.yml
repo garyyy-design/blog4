@@ -1,24 +1,22 @@
 Menu:
   Home: /
   Archives: /archives/
-  About: /about/
-  # Category: /category_archive
-  # Tag: /tag_archive
-  Github: https://github.com/vevlins/
+  About: /About/
+  Github: https://github.com/garyyy-design/
   RSS: /atom.xml
   Search: true
   
 Site:
-  Motto: Ponyo loves Sōsuke! 
+  Motto: Be stronger than you really are
 
 Intro:
-  Avastar: img/avastar.jpeg
-  Name: 张强
-  Brief: 2019届重庆大学本科生,前端学习者
+  Avastar: 
+  Name: 朱悦
+  Brief: 浙江理工大学工业设计本科
   SNS: 
     Weibo:  
     StackOverflow: 
-    Github: https://github.com/Vevlins
+    Github: https://github.com/garyyy-design/
     Pinterest: 
     Quora: 
 
