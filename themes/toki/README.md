@@ -53,7 +53,7 @@ hexo-theme-toki主题
     ```
 + 配置选项,具体见主题内config文件。包括gitment所需要的信息。
 + 如需要about页面，必须执行 `hexo new page` 并将layout指定为about。分类汇总`category_archive`和标签汇总`category_archive`也需要执行同样的操作。
-+ 版权声明默认为原创声明，如需要转载声明，需要在文章md文件内添加Front-matter如下：
++ 版权声明默认为原创声明，如需要转载声明，需要在文章md文件内添加如下：
     ``` yml
     citation:
         author: dillinger

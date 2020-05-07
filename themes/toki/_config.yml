@@ -10,29 +10,24 @@ Site:
   Motto: Be stronger than you really are
 
 Intro:
-  Avastar: 
+  
   Name: 朱悦
   Brief: 浙江理工大学工业设计本科
   SNS: 
-    Weibo:  
-    StackOverflow: 
+     
+  
     Github: https://github.com/garyyy-design/
-    Pinterest: 
-    Quora: 
+  
 
 CopyRight: 
-  Author: Sōsuke
-  License: CC BY-NC-SA 3.0 CN
+  Author: 朱悦
+  
 
 Tip:
-  Alipay: /img/qrcode.jpeg
-  Wechat: /img/qrcode.jpeg
+  Wechat: 
 
 Comment:
-  Id: 8d83609a651e972e308d
-  Secret: 37e40c89a47e957f654e86f71c5caaccad0774de
-  Repo: Vevlins.github.io
-  Owner: Vevlins
+  
 
   jsonContent:
     meta: false
